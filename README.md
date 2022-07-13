@@ -1,3 +1,8 @@
+## Projeto base usado na aula prática de level design do grupo GAMSo
+
+readme do projeto original:
+
+
 
 <p align="center">
     <img width="400px" src="http://mixandjam.com/wp-content/uploads/2019/11/git.png">    
